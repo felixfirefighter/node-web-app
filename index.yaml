@@ -3,12 +3,12 @@ entries:
   node-web-app:
   - apiVersion: v2
     appVersion: 1.1.0
-    created: "2021-05-30T23:51:48.686417+08:00"
+    created: "2021-05-31T00:06:49.019729+08:00"
     description: A simple Helm chart for multi node apps on Kubernetes
     digest: e364509f35760328a5f96e0b99a0d2a9b3e439d7bd431b95eeb1f6f375edfa71
     name: node-web-app
     type: application
     urls:
-    - node-web-app-0.1.0.tgz
+    - https://github.com/yoongti/node-web-app/tree/main/node-web-app-0.1.0.tgz
     version: 0.1.0
-generated: "2021-05-30T23:51:48.685847+08:00"
+generated: "2021-05-31T00:06:49.018982+08:00"
