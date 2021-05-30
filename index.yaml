@@ -9,6 +9,6 @@ entries:
     name: node-web-app
     type: application
     urls:
-    - https://github.com/yoongti/node-web-app/tree/main/node-web-app-0.1.0.tgz
+    - https://github.com/yoongti/node-web-app/blob/main/node-web-app-0.1.0.tgz
     version: 0.1.0
 generated: "2021-05-31T00:06:49.018982+08:00"
